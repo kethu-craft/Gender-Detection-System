@@ -179,8 +179,8 @@ If you encounter any issues:
 
 ---
 
-## 💖 Happy Coding by Kethu! 💖
+## By Kethu! 💖
 
-**With love and passion for computer vision!** ❤️
+
 
 ---
